@@ -1,6 +1,12 @@
 # RAG_for_document
 
+
+
 자세한 내용및 기능 설명은 다음 블로그 링크에서 확인할수있습니다 
+
+https://meang123.github.io/sullivan.github.io/llm,rag,document,gpt/4/vision,/streamlit,/gpt4/RAG_for_document/
+
+
 
 
 # 실행 방법 
